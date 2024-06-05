@@ -1,4 +1,7 @@
-.css-1gjo2yl-DivPostButton
-.css-1mc6yu2-DivPostButton {
+.css-1gjo2yl-DivPostButton,
+.css-1mc6yu2-DivPostButton,
+[data-e2e="comment-post"],
+[aria-label="Veröffentlichen"],
+.e1rzzhjk6 {
     margin-left: 15px;
 }
